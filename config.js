@@ -6,6 +6,7 @@ const CONF = {
         password: 'wangkui1991*',
         host: 'localhost',
         port: 3306,
+        charset: 'utf8mb4'
     }
 
 }
